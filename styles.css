@@ -1,9 +1,10 @@
 .SobreNosotros{
-    background-color: rgb(59, 73, 88);
-    font-style: italic white;
+    background-color: rgb(59, 73, 88); 
 }
 
 .header{
     background-image: url(ba1.jpg);
     background-size: cover;
+    background-color: rgb(80, 79, 79);
+    background-blend-mode: soft-light ;
 }
