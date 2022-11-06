@@ -8,3 +8,10 @@
     background-color: rgb(80, 79, 79);
     background-blend-mode: soft-light ;
 }
+
+.headerTickets{
+    background-size: cover;
+    background-color: white;
+    background-blend-mode: soft-light ;
+}
+
